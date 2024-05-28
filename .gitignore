@@ -39,9 +39,7 @@ docker-compose.yaml
 /instances/*
 !/instances/.gitkeep
 /test/
-/src/env.yml
 /store
-*.env
 
 /temp/*
 
